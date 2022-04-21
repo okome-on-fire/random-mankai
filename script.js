@@ -30,5 +30,7 @@ $(document).ready(function() {
         var random = Math.floor(Math.random() * 24);
         console.log(random);
         $('.s-result').text(nameList[random]);
+        var tweet = '選ばれたのは「' + nameList[random] + '」です';
+        $('.s-tweet_button').attr('href', 'http://twitter.com/intent/tweet?url=https://okome-on-fire.github.io/random-mankai/&text=' + tweet);
     });
 });
