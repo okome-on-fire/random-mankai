@@ -1,346 +1,664 @@
 [{
-        "name": "ロミオ",
-        "performance": "ロミオとジュリアス",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "チェシャ猫",
-        "performance": "不思議の国の青年アリス",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "コルト",
-        "performance": "ぜんまい仕掛けのココロ",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "リック",
-        "performance": "エメラルドのペテン師",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "モードレッド",
-        "performance": "Knights of Round Ⅳ THE STAGE",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "米田悠",
-        "performance": "春ヶ丘Quartet",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "小間",
-        "performance": "奇術師たちの純愛",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "ウィル",
-        "performance": "The Luminous Circus",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "萩野",
-        "performance": "千里花物語",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "サク",
-        "performance": "Last Planet",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "ブラン",
-        "performance": "SSRファミリー",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "大江知久",
-        "performance": "文学隘路",
-        "character": "佐久間咲也"
-    },
-    {
-        "name": "ジュリアス",
-        "performance": "ロミオとジュリアス",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "青年アリス",
-        "performance": "不思議の国の青年アリス",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "アルフ",
-        "performance": "ぜんまい仕掛けのココロ",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "南の魔法使い",
-        "performance": "エメラルドのペテン師",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "ガレス",
-        "performance": "Knights of Round Ⅳ THE STAGE",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "向井庸太",
-        "performance": "春ヶ丘Quartet",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "須玖キエル",
-        "performance": "奇術師たちの純愛",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "葉山",
-        "performance": "ラスト・ランウェイ",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "タダノブ",
-        "performance": "新説・クロウ伝",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "スミレ",
-        "performance": "Last Planet",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "ネロ",
-        "performance": "SSRファミリー",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "国重隆祥",
-        "performance": "文学隘路",
-        "character": "碓氷真澄"
-    },
-    {
-        "name": "マキューシオ",
-        "performance": "ロミオとジュリアス",
-        "character": "皆木綴"
-    },
-    {
-        "name": "白うさぎ",
-        "performance": "不思議の国の青年アリス",
-        "character": "皆木綴"
-    },
-    {
-        "name": "ルーク",
-        "performance": "ぜんまい仕掛けのココロ",
-        "character": "皆木綴"
-    },
-    {
-        "name": "東の魔法使い",
-        "performance": "エメラルドのペテン師",
-        "character": "皆木綴"
-    },
-    {
-        "name": "マーリン",
-        "performance": "Knights of Round Ⅳ THE STAGE",
-        "character": "皆木綴"
-    },
-    {
-        "name": "日野克己",
-        "performance": "春ヶ丘Quartet",
-        "character": "皆木綴"
-    },
-    {
-        "name": "金城",
-        "performance": "奇術師たちの純愛",
-        "character": "皆木綴"
-    },
-    {
-        "name": "久保田",
-        "performance": "駆け巡る",
-        "character": "皆木綴"
-    },
-    {
-        "name": "ベンケイ",
-        "performance": "新説・クロウ伝",
-        "character": "皆木綴"
-    },
-    {
-        "name": "タナ",
-        "performance": "Last Planet",
-        "character": "皆木綴"
-    },
-    {
-        "name": "ソル",
-        "performance": "SSRファミリー",
-        "character": "皆木綴"
-    },
-    {
-        "name": "本居鶴松",
-        "performance": "文学隘路",
-        "character": "皆木綴"
-    },
-    {
-        "name": "ティボルト",
-        "performance": "ロミオとジュリアス",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "教授／帽子屋",
-        "performance": "不思議の国の青年アリス",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "ボイド",
-        "performance": "ぜんまい仕掛けのココロ",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "西の魔法使い",
-        "performance": "エメラルドのペテン師",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "ランスロット",
-        "performance": "Knights of Round Ⅳ THE STAGE",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "町田",
-        "performance": "春ヶ丘Quartet",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "久沓堂",
-        "performance": "奇術師たちの純愛",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "二見重人",
-        "performance": "ウラオモテTEACHER",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "柳瀬松之助",
-        "performance": "千里花物語",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "ゲルブ",
-        "performance": "Last Planet",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "エイト",
-        "performance": "SSRファミリー",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "渋川",
-        "performance": "文学隘路",
-        "character": "茅ヶ崎至"
-    },
-    {
-        "name": "ロレンス神父",
-        "performance": "ロミオとジュリアス",
-        "character": "シトロン"
-    },
-    {
-        "name": "ハートの王様",
-        "performance": "不思議の国の青年アリス",
-        "character": "シトロン"
-    },
-    {
-        "name": "S",
-        "performance": "ぜんまい仕掛けのココロ",
-        "character": "シトロン"
-    },
-    {
-        "name": "北の魔法使い",
-        "performance": "エメラルドのペテン師",
-        "character": "シトロン"
-    },
-    {
-        "name": "アーサー王",
-        "performance": "Knights of Round Ⅳ THE STAGE",
-        "character": "シトロン"
-    },
-    {
-        "name": "西園寺エニス",
-        "performance": "春ヶ丘Quartet",
-        "character": "シトロン"
-    },
-    {
-        "name": "リッチー・マネー",
-        "performance": "奇術師たちの純愛",
-        "character": "シトロン"
-    },
-    {
-        "name": "月白",
-        "performance": "陰陽の宵",
-        "character": "シトロン"
-    },
-    {
-        "name": "サフル（雪丸）",
-        "performance": "千里花物語",
-        "character": "シトロン"
-    },
-    {
-        "name": "ヤスミ",
-        "performance": "Last Planet",
-        "character": "シトロン"
-    },
-    {
-        "name": "リツ",
-        "performance": "SSRファミリー",
-        "character": "シトロン"
-    },
-    {
-        "name": "楠リュシアン",
-        "performance": "文学隘路",
-        "character": "シトロン"
-    },
-    {
-        "name": "オズワルド",
-        "performance": "エメラルドのペテン師",
-        "character": "卯木千景"
-    },
-    {
-        "name": "ガウェイン",
-        "performance": "Knights of Round Ⅳ THE STAGE",
-        "character": "卯木千景"
-    },
-    {
-        "name": "東條",
-        "performance": "春ヶ丘Quartet",
-        "character": "卯木千景"
-    },
-    {
-        "name": "宇曽ペテン",
-        "performance": "奇術師たちの純愛",
-        "character": "卯木千景"
-    },
-    {
-        "name": "モリアーティ",
-        "performance": "Scarlet Mirror",
-        "character": "卯木千景"
-    },
-    {
-        "name": "ヨリトモ",
-        "performance": "新説・クロウ伝",
-        "character": "卯木千景"
-    },
-    {
-        "name": "スズ",
-        "performance": "Last Planet",
-        "character": "卯木千景"
-    },
-    {
-        "name": "うりゅ",
-        "performance": "SSRファミリー",
-        "character": "卯木千景"
-    },
-    {
-        "name": "高杉",
-        "performance": "文学隘路",
-        "character": "卯木千景"
-    }
-]
+    "春組": [{
+            "name": "ロミオ",
+            "performance": "ロミオとジュリアス",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "チェシャ猫",
+            "performance": "不思議の国の青年アリス",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "コルト",
+            "performance": "ぜんまい仕掛けのココロ",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "リック",
+            "performance": "エメラルドのペテン師",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "モードレッド",
+            "performance": "Knights of Round Ⅳ THE STAGE",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "米田悠",
+            "performance": "春ヶ丘Quartet",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "小間",
+            "performance": "奇術師たちの純愛",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "ウィル",
+            "performance": "The Luminous Circus",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "萩野",
+            "performance": "千里花物語",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "サク",
+            "performance": "Last Planet",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "ブラン",
+            "performance": "SSRファミリー",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "大江知久",
+            "performance": "文学隘路",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "ジュリアス",
+            "performance": "ロミオとジュリアス",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "青年アリス",
+            "performance": "不思議の国の青年アリス",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "アルフ",
+            "performance": "ぜんまい仕掛けのココロ",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "南の魔法使い",
+            "performance": "エメラルドのペテン師",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "ガレス",
+            "performance": "Knights of Round Ⅳ THE STAGE",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "向井庸太",
+            "performance": "春ヶ丘Quartet",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "須玖キエル",
+            "performance": "奇術師たちの純愛",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "葉山",
+            "performance": "ラスト・ランウェイ",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "タダノブ",
+            "performance": "新説・クロウ伝",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "スミレ",
+            "performance": "Last Planet",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "ネロ",
+            "performance": "SSRファミリー",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "国重隆祥",
+            "performance": "文学隘路",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "マキューシオ",
+            "performance": "ロミオとジュリアス",
+            "character": "皆木綴"
+        },
+        {
+            "name": "白うさぎ",
+            "performance": "不思議の国の青年アリス",
+            "character": "皆木綴"
+        },
+        {
+            "name": "ルーク",
+            "performance": "ぜんまい仕掛けのココロ",
+            "character": "皆木綴"
+        },
+        {
+            "name": "東の魔法使い",
+            "performance": "エメラルドのペテン師",
+            "character": "皆木綴"
+        },
+        {
+            "name": "マーリン",
+            "performance": "Knights of Round Ⅳ THE STAGE",
+            "character": "皆木綴"
+        },
+        {
+            "name": "日野克己",
+            "performance": "春ヶ丘Quartet",
+            "character": "皆木綴"
+        },
+        {
+            "name": "金城",
+            "performance": "奇術師たちの純愛",
+            "character": "皆木綴"
+        },
+        {
+            "name": "久保田",
+            "performance": "駆け巡る",
+            "character": "皆木綴"
+        },
+        {
+            "name": "ベンケイ",
+            "performance": "新説・クロウ伝",
+            "character": "皆木綴"
+        },
+        {
+            "name": "タナ",
+            "performance": "Last Planet",
+            "character": "皆木綴"
+        },
+        {
+            "name": "ソル",
+            "performance": "SSRファミリー",
+            "character": "皆木綴"
+        },
+        {
+            "name": "本居鶴松",
+            "performance": "文学隘路",
+            "character": "皆木綴"
+        },
+        {
+            "name": "ティボルト",
+            "performance": "ロミオとジュリアス",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "教授／帽子屋",
+            "performance": "不思議の国の青年アリス",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "ボイド",
+            "performance": "ぜんまい仕掛けのココロ",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "西の魔法使い",
+            "performance": "エメラルドのペテン師",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "ランスロット",
+            "performance": "Knights of Round Ⅳ THE STAGE",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "町田",
+            "performance": "春ヶ丘Quartet",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "久沓堂",
+            "performance": "奇術師たちの純愛",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "二見重人",
+            "performance": "ウラオモテTEACHER",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "柳瀬松之助",
+            "performance": "千里花物語",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "ゲルブ",
+            "performance": "Last Planet",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "エイト",
+            "performance": "SSRファミリー",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "渋川",
+            "performance": "文学隘路",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "ロレンス神父",
+            "performance": "ロミオとジュリアス",
+            "character": "シトロン"
+        },
+        {
+            "name": "ハートの王様",
+            "performance": "不思議の国の青年アリス",
+            "character": "シトロン"
+        },
+        {
+            "name": "S",
+            "performance": "ぜんまい仕掛けのココロ",
+            "character": "シトロン"
+        },
+        {
+            "name": "北の魔法使い",
+            "performance": "エメラルドのペテン師",
+            "character": "シトロン"
+        },
+        {
+            "name": "アーサー王",
+            "performance": "Knights of Round Ⅳ THE STAGE",
+            "character": "シトロン"
+        },
+        {
+            "name": "西園寺エニス",
+            "performance": "春ヶ丘Quartet",
+            "character": "シトロン"
+        },
+        {
+            "name": "リッチー・マネー",
+            "performance": "奇術師たちの純愛",
+            "character": "シトロン"
+        },
+        {
+            "name": "月白",
+            "performance": "陰陽の宵",
+            "character": "シトロン"
+        },
+        {
+            "name": "サフル（雪丸）",
+            "performance": "千里花物語",
+            "character": "シトロン"
+        },
+        {
+            "name": "ヤスミ",
+            "performance": "Last Planet",
+            "character": "シトロン"
+        },
+        {
+            "name": "リツ",
+            "performance": "SSRファミリー",
+            "character": "シトロン"
+        },
+        {
+            "name": "楠リュシアン",
+            "performance": "文学隘路",
+            "character": "シトロン"
+        },
+        {
+            "name": "オズワルド",
+            "performance": "エメラルドのペテン師",
+            "character": "卯木千景"
+        },
+        {
+            "name": "ガウェイン",
+            "performance": "Knights of Round Ⅳ THE STAGE",
+            "character": "卯木千景"
+        },
+        {
+            "name": "東條",
+            "performance": "春ヶ丘Quartet",
+            "character": "卯木千景"
+        },
+        {
+            "name": "宇曽ペテン",
+            "performance": "奇術師たちの純愛",
+            "character": "卯木千景"
+        },
+        {
+            "name": "モリアーティ",
+            "performance": "Scarlet Mirror",
+            "character": "卯木千景"
+        },
+        {
+            "name": "ヨリトモ",
+            "performance": "新説・クロウ伝",
+            "character": "卯木千景"
+        },
+        {
+            "name": "スズ",
+            "performance": "Last Planet",
+            "character": "卯木千景"
+        },
+        {
+            "name": "うりゅ",
+            "performance": "SSRファミリー",
+            "character": "卯木千景"
+        },
+        {
+            "name": "高杉",
+            "performance": "文学隘路",
+            "character": "卯木千景"
+        }
+    ],
+    "夏組": [{
+            "name": "アリババ",
+            "performance": "Water me! ～我らが水を求めて～",
+            "character": "皇天馬"
+        },
+        {
+            "name": "ミケ",
+            "performance": "にぼしを巡る冒険",
+            "character": "皇天馬"
+        },
+        {
+            "name": "ジョニー",
+            "performance": "抜錨！スカイ海賊団",
+            "character": "皇天馬"
+        },
+        {
+            "name": "井上遼",
+            "performance": "初恋甲子園",
+            "character": "皇天馬"
+        },
+        {
+            "name": "ヒュウガ",
+            "performance": "SHI★NO★BI珍道中",
+            "character": "皇天馬"
+        },
+        {
+            "name": "サニー",
+            "performance": "花の王子さま",
+            "character": "皇天馬"
+        },
+        {
+            "name": "土田聡介",
+            "performance": "＋3Ghosts！",
+            "character": "皇天馬"
+        },
+        {
+            "name": "古賀",
+            "performance": "ラスト・ランウェイ",
+            "character": "皇天馬"
+        },
+        {
+            "name": "クロウ",
+            "performance": "新説・クロウ伝",
+            "character": "皇天馬"
+        },
+        {
+            "name": "レオ",
+            "performance": "Last Planet",
+            "character": "皇天馬"
+        },
+        {
+            "name": "リオ",
+            "performance": "WONDER RUSH",
+            "character": "皇天馬"
+        },
+        {
+            "name": "シェヘラザード",
+            "performance": "Water me! ～我らが水を求めて～",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "シロ",
+            "performance": "にぼしを巡る冒険",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "フランソワ",
+            "performance": "抜錨！スカイ海賊団",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "鷲宮光",
+            "performance": "初恋甲子園",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "サエ",
+            "performance": "SHI★NO★BI珍道中",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "ローズ",
+            "performance": "花の王子さま",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "薄田悠馬",
+            "performance": "＋3Ghosts！",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "菊川",
+            "performance": "ラスト・ランウェイ",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "Ｑ",
+            "performance": "Trump the phantom thief",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "リンク",
+            "performance": "Last Planet",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "コロ",
+            "performance": "WONDER RUSH",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "シンドバッド",
+            "performance": "Water me! ～我らが水を求めて～",
+            "character": "向坂椋"
+        },
+        {
+            "name": "ノラ",
+            "performance": "にぼしを巡る冒険",
+            "character": "向坂椋"
+        },
+        {
+            "name": "ヘンリー",
+            "performance": "抜錨！スカイ海賊団",
+            "character": "向坂椋"
+        },
+        {
+            "name": "大野仁",
+            "performance": "初恋甲子園",
+            "character": "向坂椋"
+        },
+        {
+            "name": "サンタ",
+            "performance": "SHI★NO★BI珍道中",
+            "character": "向坂椋"
+        },
+        {
+            "name": "フローレンス",
+            "performance": "花の王子さま",
+            "character": "向坂椋"
+        },
+        {
+            "name": "水島湊",
+            "performance": "＋3Ghosts！",
+            "character": "向坂椋"
+        },
+        {
+            "name": "ニック",
+            "performance": "The Luminous Circus",
+            "character": "向坂椋"
+        },
+        {
+            "name": "キング",
+            "performance": "Trump the phantom thief",
+            "character": "向坂椋"
+        },
+        {
+            "name": "オリオン",
+            "performance": "Last Planet",
+            "character": "向坂椋"
+        },
+        {
+            "name": "マル",
+            "performance": "WONDER RUSH",
+            "character": "向坂椋"
+        },
+        {
+            "name": "ランプの魔人",
+            "performance": "Water me! ～我らが水を求めて～",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "タマ",
+            "performance": "にぼしを巡る冒険",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "スカイ",
+            "performance": "抜錨！スカイ海賊団",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "上原勇人",
+            "performance": "初恋甲子園",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "ヨシマル",
+            "performance": "SHI★NO★BI珍道中",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "シャイン",
+            "performance": "花の王子さま",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "木津浩成",
+            "performance": "＋3Ghosts！",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "只野誠人",
+            "performance": "ウラオモテTEACHER",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "ツグノブ",
+            "performance": "新説・クロウ伝",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "トリル",
+            "performance": "Last Planet",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "レイ",
+            "performance": "WONDER RUSH",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "アラジン",
+            "performance": "Water me! ～我らが水を求めて～",
+            "character": "三好一成"
+        },
+        {
+            "name": "クロ",
+            "performance": "にぼしを巡る冒険",
+            "character": "三好一成"
+        },
+        {
+            "name": "ポール",
+            "performance": "抜錨！スカイ海賊団",
+            "character": "三好一成"
+        },
+        {
+            "name": "榎本隆大",
+            "performance": "初恋甲子園",
+            "character": "三好一成"
+        },
+        {
+            "name": "キイチ",
+            "performance": "SHI★NO★BI珍道中",
+            "character": "三好一成"
+        },
+        {
+            "name": "リンクル",
+            "performance": "花の王子さま",
+            "character": "三好一成"
+        },
+        {
+            "name": "望月蒼",
+            "performance": "＋3Ghosts！",
+            "character": "三好一成"
+        },
+        {
+            "name": "ティム",
+            "performance": "The Luminous Circus",
+            "character": "三好一成"
+        },
+        {
+            "name": "エース",
+            "performance": "Trump the phantom thief",
+            "character": "三好一成"
+        },
+        {
+            "name": "アクイラ",
+            "performance": "Last Planet",
+            "character": "三好一成"
+        },
+        {
+            "name": "ルイ",
+            "performance": "WONDER RUSH",
+            "character": "三好一成"
+        },
+        {
+            "name": "秋山壮太",
+            "performance": "初恋甲子園",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "若様",
+            "performance": "SHI★NO★BI珍道中",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "ブロト",
+            "performance": "花の王子さま",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "夏川空",
+            "performance": "＋3Ghosts！",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "ワトソン",
+            "performance": "Scarlet Mirror",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "ヤスヒラ",
+            "performance": "新説・クロウ伝",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "デル",
+            "performance": "Last Planet",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "チャチャ",
+            "performance": "WONDER RUSH",
+            "character": "兵頭九門"
+        }
+    ]
+}]
