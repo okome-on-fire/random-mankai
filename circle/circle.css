@@ -1,0 +1,53 @@
+/* 入力欄 */
+
+.p-numArea_num {
+    text-align: center;
+}
+
+#num {
+    font-size: 16px;
+    padding: 10px 15px;
+    border: 1px solid #6981ff;
+    font-weight: bold;
+    width: 150px;
+}
+
+.p-numArea_button {
+    position: relative;
+    color: #fff;
+    background: #ff386f;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 250px;
+    margin: 30px auto;
+    transition: all ease 0.3s;
+    text-align: center;
+}
+
+.p-numArea_subText {
+    display: inline-block;
+}
+
+.p-numArea_attention {
+    display: none;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px auto;
+    color: #ff386f;
+}
+
+
+/* キャンバス */
+
+.canvasArea {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+canvas {
+    border: 1px solid #6981ff;
+    background-color: #fff;
+}

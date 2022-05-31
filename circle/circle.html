@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <title>頭のアタリをとるぜ～</title>
+    <link rel="stylesheet" type="text/css" href="../reset.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../circle/circle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="../circle/circle_make.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>人数を入力するんだぜ</h1>
+    </header>
+
+    <div id="main" class="main">
+        <div class="p-numArea main_innner">
+            <div class="p-numArea_num">
+                <input type="number" id="num" name="num">
+                <p class="p-numArea_subText">人</p>
+            </div>
+            <p class="p-numArea_button s-makeCircle"><span>おす</span></p>
+            <p class="p-numArea_attention">25以下の数字を入力してね</p>
+        </div>
+    </div>
+
+    <!-- 結果表示 -->
+    <div class="canvasArea">
+        <canvas id="canvas" width="500" height="500"></canvas>
+    </div>
+
+    <footer>
+        作った人：米崎</p>
+    </footer>
+</body>
+
+</html>
