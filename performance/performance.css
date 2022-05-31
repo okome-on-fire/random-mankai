@@ -14,3 +14,18 @@
 .result_text:not(:first-child)::before {
     content: "/";
 }
+
+@media screen and (max-width: 440px) {
+    .result_textWrap {
+        display: block;
+    }
+    .result_text:not(:first-child) {
+        color: #ccc;
+    }
+    .result_subText {
+        color: #ccc;
+    }
+    .result_text:not(:first-child)::before {
+        content: none;
+    }
+}
