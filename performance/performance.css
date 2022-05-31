@@ -15,6 +15,36 @@
     content: "/";
 }
 
+.choose_box {
+    position: relative;
+    max-width: 250px;
+    width: 80%;
+    margin: 0 auto 20px;
+}
+
+.button_area select {
+    width: 100%;
+    cursor: pointer;
+    background-color: white;
+    box-shadow: 0 2px 0 white;
+    border-radius: 2px;
+    border: 1px solid #6981ff;
+    padding: 8px 0;
+}
+
+.choose_arrow {
+    display: block;
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 4px 0 4px;
+    border-color: #6981ff transparent transparent transparent;
+    right: 8px;
+    top: 13px;
+}
+
 @media screen and (max-width: 440px) {
     .result_textWrap {
         display: block;
