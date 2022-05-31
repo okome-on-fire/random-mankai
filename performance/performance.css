@@ -15,6 +15,7 @@
 .result_text:not(:first-child)::before {
     content: "/";
     padding: 0 3px;
+    color: #ccc;
 }
 
 .choose_box {
