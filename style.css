@@ -1,5 +1,6 @@
 body {
     background-color: #fff336;
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
 }
 
 header {
@@ -7,11 +8,12 @@ header {
     color: #fff;
     font-size: 24px;
     font-weight: bold;
-    padding: 15px 0;
+    padding: 15px 10px;
     text-align: center;
 }
 
 .main {
+    width: 95%;
     background: #fff;
     border-radius: 6px;
     padding: 20px;
@@ -33,7 +35,7 @@ header {
     font-size: 20px;
     font-weight: bold;
     max-width: 250px;
-    margin: 0 auto 30px;
+    margin: 0 auto 20px;
     transition: all ease 0.3s;
 }
 
@@ -80,7 +82,7 @@ header {
 
 .tweet {
     text-align: center;
-    margin: 30px auto 0;
+    margin: 20px auto 0;
 }
 
 .tweet_button {
@@ -88,9 +90,9 @@ header {
     max-width: 200px;
     background: #6981ff;
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     padding: 10px 0;
-    margin: 10px auto;
+    margin: 10px auto 0;
     border-radius: 4px;
     text-align: center;
     position: relative;
@@ -133,10 +135,11 @@ footer {
 }
 
 .footerLink {
+    width: 95%;
     max-width: 700px;
     box-sizing: border-box;
     border-bottom: 1px solid #fff;
-    padding: 10px 0;
+    padding: 0 0 10px;
     margin: 0 auto 10px;
     display: flex;
     flex-wrap: wrap;
@@ -153,4 +156,10 @@ footer {
 
 .footerLink li:not(:first-child)::before {
     content: "|";
+}
+
+@media screen and (max-width: 440px) {
+    header {
+        font-size: 20px;
+    }
 }
