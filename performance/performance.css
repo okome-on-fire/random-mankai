@@ -1,0 +1,16 @@
+.result_subText {
+    font-size: 14px;
+}
+
+.result_textWrap {
+    display: flex;
+    justify-content: center;
+}
+
+.result_textWrap .result_text {
+    font-size: 20px;
+}
+
+.result_text:not(:first-child)::before {
+    content: "/";
+}
