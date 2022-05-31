@@ -10,7 +10,7 @@ $(document).ready(function() {
             switch (troupe) {
                 case '全部':
                     // 全部同じ配列に入れたい
-                    var troupeNum = Math.floor(Math.random() * 2);
+                    var troupeNum = Math.floor(Math.random() * 4);
                     switch (troupeNum) {
                         case 0:
                             var troupeName = "春組";
@@ -18,12 +18,12 @@ $(document).ready(function() {
                         case 1:
                             var troupeName = "夏組";
                             break;
-                            // case 2:
-                            //     var troupeName = "秋組";
-                            //     break;
-                            // case 3:
-                            //     var troupeName = "冬組";
-                            //     break;
+                        case 2:
+                            var troupeName = "秋組";
+                            break;
+                        case 3:
+                            var troupeName = "冬組";
+                            break;
 
                     }
                     var dataNum = Object.keys(dataList[0][troupeName]).length;
@@ -51,6 +51,22 @@ $(document).ready(function() {
                     var resultPerformance = dataList[0]["夏組"][randomNum].performance;
                     var resultCharacter = dataList[0]["夏組"][randomNum].character;
                     break;
+                case '秋組':
+                    var dataNum = Object.keys(dataList[0]["秋組"]).length;
+                    console.log(dataNum);
+                    var randomNum = Math.floor(Math.random() * dataNum);
+                    var resultName = dataList[0]["秋組"][randomNum].name;
+                    var resultPerformance = dataList[0]["秋組"][randomNum].performance;
+                    var resultCharacter = dataList[0]["秋組"][randomNum].character;
+                    break;
+                case '冬組':
+                    var dataNum = Object.keys(dataList[0]["冬組"]).length;
+                    console.log(dataNum);
+                    var randomNum = Math.floor(Math.random() * dataNum);
+                    var resultName = dataList[0]["冬組"][randomNum].name;
+                    var resultPerformance = dataList[0]["冬組"][randomNum].performance;
+                    var resultCharacter = dataList[0]["冬組"][randomNum].character;
+                    break;
             }
 
             // 各文字代入
@@ -59,7 +75,7 @@ $(document).ready(function() {
             $('.s-resultCharacter span').text(resultCharacter);
 
             // tweet
-            var tweet = '選ばれたのは「' + resultName + '/' + resultPerformance + '」です';
+            var tweet = 'お題は「' + resultName + '/' + resultPerformance + '」です';
             $('.s-tweet_button').attr('href', 'http://twitter.com/intent/tweet?url=https://okome-on-fire.github.io/random-mankai/performance/&text=' + tweet + '&hashtags=ランダム公演キャラお題');
         });
     });
