@@ -16,7 +16,7 @@ header {
     border-radius: 6px;
     padding: 20px;
     margin: 30px auto;
-    width: 700px;
+    max-width: 700px;
     box-sizing: border-box;
 }
 
@@ -32,7 +32,7 @@ header {
     padding: 10px 15px;
     font-size: 20px;
     font-weight: bold;
-    width: 250px;
+    max-width: 250px;
     margin: 0 auto 30px;
     transition: all ease 0.3s;
 }
@@ -85,7 +85,7 @@ header {
 
 .tweet_button {
     display: block;
-    width: 200px;
+    max-width: 200px;
     background: #6981ff;
     color: #fff;
     font-size: 12px;
@@ -133,7 +133,7 @@ footer {
 }
 
 .footerLink {
-    width: 700px;
+    max-width: 700px;
     box-sizing: border-box;
     border-bottom: 1px solid #fff;
     padding: 10px 0;
