@@ -5,6 +5,7 @@
 .result_textWrap {
     display: flex;
     justify-content: center;
+    align-items: baseline;
 }
 
 .result_textWrap .result_text {

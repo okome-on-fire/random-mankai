@@ -660,5 +660,637 @@
             "performance": "WONDER RUSH",
             "character": "兵頭九門"
         }
+    ],
+    "秋組": [{
+            "name": "ルチアーノ",
+            "performance": "なんて素敵にピカレスク",
+            "character": "摂津万里"
+        },
+        {
+            "name": "ドム",
+            "performance": "異邦人",
+            "character": "摂津万里"
+        },
+        {
+            "name": "茂木",
+            "performance": "任侠伝・流れ者銀二",
+            "character": "摂津万里"
+        },
+        {
+            "name": "イヴァン",
+            "performance": "DEAD/UNDEAD",
+            "character": "摂津万里"
+        },
+        {
+            "name": "シン",
+            "performance": "燃えよ饅頭拳！",
+            "character": "摂津万里"
+        },
+        {
+            "name": "ダスト",
+            "performance": "Fallen Blood",
+            "character": "摂津万里"
+        },
+        {
+            "name": "三田",
+            "performance": "異世界歓迎！元ヤン食堂",
+            "character": "摂津万里"
+        },
+        {
+            "name": "新橋新",
+            "performance": "ウラオモテTEACHER",
+            "character": "摂津万里"
+        },
+        {
+            "name": "フォックス",
+            "performance": "Trump the phantom thief",
+            "character": "摂津万里"
+        },
+        {
+            "name": "ダグ",
+            "performance": "Last Planet",
+            "character": "摂津万里"
+        },
+        {
+            "name": "デビッド",
+            "performance": "サウスヒルプリズン",
+            "character": "摂津万里"
+        },
+        {
+            "name": "ランスキー",
+            "performance": "なんて素敵にピカレスク",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "ジョン",
+            "performance": "異邦人",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "龍田謙",
+            "performance": "任侠伝・流れ者銀二",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "ドギー",
+            "performance": "DEAD/UNDEAD",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "赤龍",
+            "performance": "燃えよ饅頭拳！",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "ブラッド",
+            "performance": "Fallen Blood",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "中川匠",
+            "performance": "異世界歓迎！元ヤン食堂",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "モラン",
+            "performance": "Scarlet Mirror",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "ジャック",
+            "performance": "Trump the phantom thief",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "ティグ",
+            "performance": "Last Planet",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "ショウ",
+            "performance": "サウスヒルプリズン",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "ベンジャミン",
+            "performance": "なんて素敵にピカレスク",
+            "character": "七尾太一"
+        },
+        {
+            "name": "ゼロ",
+            "performance": "異邦人",
+            "character": "七尾太一"
+        },
+        {
+            "name": "児島恭太",
+            "performance": "任侠伝・流れ者銀二",
+            "character": "七尾太一"
+        },
+        {
+            "name": "ロイ",
+            "performance": "DEAD/UNDEAD",
+            "character": "七尾太一"
+        },
+        {
+            "name": "チャン",
+            "performance": "燃えよ饅頭拳！",
+            "character": "七尾太一"
+        },
+        {
+            "name": "リューク",
+            "performance": "Fallen Blood",
+            "character": "七尾太一"
+        },
+        {
+            "name": "カミロ",
+            "performance": "異世界歓迎！元ヤン食堂",
+            "character": "七尾太一"
+        },
+        {
+            "name": "三上",
+            "performance": "ラスト・ランウェイ",
+            "character": "七尾太一"
+        },
+        {
+            "name": "マルク",
+            "performance": "永久に囚われた悪魔。",
+            "character": "七尾太一"
+        },
+        {
+            "name": "ラット",
+            "performance": "Last Planet",
+            "character": "七尾太一"
+        },
+        {
+            "name": "ミゲル",
+            "performance": "サウスヒルプリズン",
+            "character": "七尾太一"
+        },
+        {
+            "name": "デューイ",
+            "performance": "なんて素敵にピカレスク",
+            "character": "伏見臣"
+        },
+        {
+            "name": "ヴォルフ",
+            "performance": "異邦人",
+            "character": "伏見臣"
+        },
+        {
+            "name": "横田",
+            "performance": "任侠伝・流れ者銀二",
+            "character": "伏見臣"
+        },
+        {
+            "name": "レッド",
+            "performance": "DEAD/UNDEAD",
+            "character": "伏見臣"
+        },
+        {
+            "name": "ハン",
+            "performance": "燃えよ饅頭拳！",
+            "character": "伏見臣"
+        },
+        {
+            "name": "ヒューイ",
+            "performance": "Fallen Blood",
+            "character": "伏見臣"
+        },
+        {
+            "name": "近藤陸",
+            "performance": "異世界歓迎！元ヤン食堂",
+            "character": "伏見臣"
+        },
+        {
+            "name": "五十嵐",
+            "performance": "駆け巡る",
+            "character": "伏見臣"
+        },
+        {
+            "name": "ウォルター",
+            "performance": "永久に囚われた悪魔。",
+            "character": "伏見臣"
+        },
+        {
+            "name": "ウォル",
+            "performance": "Last Planet",
+            "character": "伏見臣"
+        },
+        {
+            "name": "ダグラス",
+            "performance": "サウスヒルプリズン",
+            "character": "伏見臣"
+        },
+        {
+            "name": "カポネ",
+            "performance": "なんて素敵にピカレスク",
+            "character": "古市左京"
+        },
+        {
+            "name": "ナイン",
+            "performance": "異邦人",
+            "character": "古市左京"
+        },
+        {
+            "name": "風間銀二",
+            "performance": "任侠伝・流れ者銀二",
+            "character": "古市左京"
+        },
+        {
+            "name": "ビル",
+            "performance": "DEAD/UNDEAD",
+            "character": "古市左京"
+        },
+        {
+            "name": "老師",
+            "performance": "燃えよ饅頭拳！",
+            "character": "古市左京"
+        },
+        {
+            "name": "マックス",
+            "performance": "Fallen Blood",
+            "character": "古市左京"
+        },
+        {
+            "name": "aaaaaaaaaaa",
+            "performance": "異世界歓迎！元ヤン食堂",
+            "character": "古市左京"
+        },
+        {
+            "name": "クラウス",
+            "performance": "ウラオモテTEACHER",
+            "character": "古市左京"
+        },
+        {
+            "name": "クラブ",
+            "performance": "Trump the phantom thief",
+            "character": "古市左京"
+        },
+        {
+            "name": "ダン",
+            "performance": "Last Planet",
+            "character": "古市左京"
+        },
+        {
+            "name": "レナート",
+            "performance": "サウスヒルプリズン",
+            "character": "古市左京"
+        },
+        {
+            "name": "アベル",
+            "performance": "DEAD/UNDEAD",
+            "character": "泉田莇"
+        },
+        {
+            "name": "ユン",
+            "performance": "燃えよ饅頭拳！",
+            "character": "泉田莇"
+        },
+        {
+            "name": "キッド",
+            "performance": "Fallen Blood",
+            "character": "泉田莇"
+        },
+        {
+            "name": "中川英太",
+            "performance": "異世界歓迎！元ヤン食堂",
+            "character": "泉田莇"
+        },
+        {
+            "name": "耕平",
+            "performance": "駆け巡る",
+            "character": "泉田莇"
+        },
+        {
+            "name": "クリフ",
+            "performance": "永久に囚われた悪魔。",
+            "character": "泉田莇"
+        },
+        {
+            "name": "バット",
+            "performance": "Last Planet",
+            "character": "泉田莇"
+        },
+        {
+            "name": "レン",
+            "performance": "サウスヒルプリズン",
+            "character": "泉田莇"
+        }
+    ],
+    "冬組": [{
+            "name": "ミカエル",
+            "performance": "天使を憐れむ歌。",
+            "character": "月岡紬"
+        },
+        {
+            "name": "相馬京一",
+            "performance": "主人はミステリにご執心",
+            "character": "月岡紬"
+        },
+        {
+            "name": "泉遼平",
+            "performance": "真夜中の住人",
+            "character": "月岡紬"
+        },
+        {
+            "name": "クリス",
+            "performance": "怪人Fと嘆きのオペラ",
+            "character": "月岡紬"
+        },
+        {
+            "name": "平六",
+            "performance": "剣に死す。",
+            "character": "月岡紬"
+        },
+        {
+            "name": "ドミニク",
+            "performance": "Risky Game",
+            "character": "月岡紬"
+        },
+        {
+            "name": "北見",
+            "performance": "ホテルコンパス",
+            "character": "月岡紬"
+        },
+        {
+            "name": "近藤譲",
+            "performance": "ウラオモテTEACHER",
+            "character": "月岡紬"
+        },
+        {
+            "name": "ルキフェル",
+            "performance": "永久に囚われた悪魔。",
+            "character": "月岡紬"
+        },
+        {
+            "name": "アオ",
+            "performance": "Last Planet",
+            "character": "月岡紬"
+        },
+        {
+            "name": "花岡",
+            "performance": "Dance with Butterfly",
+            "character": "月岡紬"
+        },
+        {
+            "name": "ラファエル",
+            "performance": "天使を憐れむ歌。",
+            "character": "高遠丞"
+        },
+        {
+            "name": "中津啓二",
+            "performance": "主人はミステリにご執心",
+            "character": "高遠丞"
+        },
+        {
+            "name": "瀬尾浩太",
+            "performance": "真夜中の住人",
+            "character": "高遠丞"
+        },
+        {
+            "name": "ラウル",
+            "performance": "怪人Fと嘆きのオペラ",
+            "character": "高遠丞"
+        },
+        {
+            "name": "宮本武蔵",
+            "performance": "剣に死す。",
+            "character": "高遠丞"
+        },
+        {
+            "name": "オリバー",
+            "performance": "Risky Game",
+            "character": "高遠丞"
+        },
+        {
+            "name": "三波",
+            "performance": "ホテルコンパス",
+            "character": "高遠丞"
+        },
+        {
+            "name": "宮木",
+            "performance": "駆け巡る",
+            "character": "高遠丞"
+        },
+        {
+            "name": "サタン",
+            "performance": "永久に囚われた悪魔。",
+            "character": "高遠丞"
+        },
+        {
+            "name": "グリム",
+            "performance": "Last Planet",
+            "character": "高遠丞"
+        },
+        {
+            "name": "高津",
+            "performance": "Dance with Butterfly",
+            "character": "高遠丞"
+        },
+        {
+            "name": "ウリエル",
+            "performance": "天使を憐れむ歌。",
+            "character": "御影密"
+        },
+        {
+            "name": "東条志岐",
+            "performance": "主人はミステリにご執心",
+            "character": "御影密"
+        },
+        {
+            "name": "フランツ",
+            "performance": "真夜中の住人",
+            "character": "御影密"
+        },
+        {
+            "name": "カール",
+            "performance": "怪人Fと嘆きのオペラ",
+            "character": "御影密"
+        },
+        {
+            "name": "殺し屋銀",
+            "performance": "剣に死す。",
+            "character": "御影密"
+        },
+        {
+            "name": "リアム",
+            "performance": "Risky Game",
+            "character": "御影密"
+        },
+        {
+            "name": "西",
+            "performance": "ホテルコンパス",
+            "character": "御影密"
+        },
+        {
+            "name": "ホームズ",
+            "performance": "Scarlet Mirror",
+            "character": "御影密"
+        },
+        {
+            "name": "笹岡福丸",
+            "performance": "千里花物語",
+            "character": "御影密"
+        },
+        {
+            "name": "マリン",
+            "performance": "Last Planet",
+            "character": "御影密"
+        },
+        {
+            "name": "三笠",
+            "performance": "Dance with Butterfly",
+            "character": "御影密"
+        },
+        {
+            "name": "メタトロン",
+            "performance": "天使を憐れむ歌。",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "鷺島亨",
+            "performance": "主人はミステリにご執心",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "野々宮",
+            "performance": "真夜中の住人",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "リチャード",
+            "performance": "怪人Fと嘆きのオペラ",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "藤次郎",
+            "performance": "剣に死す。",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "レドリー",
+            "performance": "Risky Game",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "東川",
+            "performance": "ホテルコンパス",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "ジョージ",
+            "performance": "The Luminous Circus",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "藤坂",
+            "performance": "千里花物語",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "ヴァーグ",
+            "performance": "Last Planet",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "有川",
+            "performance": "Dance with Butterfly",
+            "character": "有栖川誉"
+        },
+        {
+            "name": "フィリップ",
+            "performance": "天使を憐れむ歌。",
+            "character": "雪白東"
+        },
+        {
+            "name": "草薙静馬",
+            "performance": "主人はミステリにご執心",
+            "character": "雪白東"
+        },
+        {
+            "name": "九頭玲央",
+            "performance": "真夜中の住人",
+            "character": "雪白東"
+        },
+        {
+            "name": "フィル",
+            "performance": "怪人Fと嘆きのオペラ",
+            "character": "雪白東"
+        },
+        {
+            "name": "おりん",
+            "performance": "剣に死す。",
+            "character": "雪白東"
+        },
+        {
+            "name": "ノーマン",
+            "performance": "Risky Game",
+            "character": "雪白東"
+        },
+        {
+            "name": "尾張",
+            "performance": "ホテルコンパス",
+            "character": "雪白東"
+        },
+        {
+            "name": "佼",
+            "performance": "陰陽の宵",
+            "character": "雪白東"
+        },
+        {
+            "name": "笹岡雪之丞",
+            "performance": "千里花物語",
+            "character": "雪白東"
+        },
+        {
+            "name": "ムラサキ",
+            "performance": "Last Planet",
+            "character": "雪白東"
+        },
+        {
+            "name": "結城",
+            "performance": "Dance with Butterfly",
+            "character": "雪白東"
+        },
+        {
+            "name": "ファントム",
+            "performance": "怪人Fと嘆きのオペラ",
+            "character": "ガイ"
+        },
+        {
+            "name": "佐々木小次郎",
+            "performance": "剣に死す。",
+            "character": "ガイ"
+        },
+        {
+            "name": "エドガー",
+            "performance": "Risky Game",
+            "character": "ガイ"
+        },
+        {
+            "name": "津々木",
+            "performance": "ホテルコンパス",
+            "character": "ガイ"
+        },
+        {
+            "name": "翡翠",
+            "performance": "陰陽の宵",
+            "character": "ガイ"
+        },
+        {
+            "name": "ベルゼブブ",
+            "performance": "永久に囚われた悪魔。",
+            "character": "ガイ"
+        },
+        {
+            "name": "スグリ",
+            "performance": "Last Planet",
+            "character": "ガイ"
+        },
+        {
+            "name": "幸田",
+            "performance": "Dance with Butterfly",
+            "character": "ガイ"
+        }
     ]
 }]

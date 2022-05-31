@@ -9,7 +9,7 @@
     padding: 10px 15px;
     border: 1px solid #6981ff;
     font-weight: bold;
-    width: 150px;
+    max-width: 150px;
 }
 
 .p-numArea_button {
@@ -20,7 +20,7 @@
     padding: 10px 15px;
     font-size: 20px;
     font-weight: bold;
-    width: 250px;
+    max-width: 250px;
     margin: 30px auto;
     transition: all ease 0.3s;
     text-align: center;
@@ -48,6 +48,7 @@
 }
 
 canvas {
+    max-width: 100%;
     border: 1px solid #6981ff;
     background-color: #fff;
 }
