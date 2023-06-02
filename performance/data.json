@@ -343,6 +343,66 @@
             "name": "高杉",
             "performance": "文学隘路",
             "character": "卯木千景"
+        },
+        {
+            "name": "本居鶴松",
+            "performance": "文学隘路",
+            "character": "皆木綴"
+        },
+        {
+            "name": "大江知久",
+            "performance": "文学隘路",
+            "character": "佐久間咲也"
+        },
+        {
+            "name": "楠リュシアン",
+            "performance": "文学隘路",
+            "character": "シトロン"
+        },
+        {
+            "name": "高杉",
+            "performance": "文学隘路",
+            "character": "卯木千景"
+        },
+        {
+            "name": "国重隆祥",
+            "performance": "文学隘路",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "渋川",
+            "performance": "文学隘路",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "ロベルト",
+            "performance": "ムーン・トラベラー",
+            "character": "卯木千景"
+        },
+        {
+            "name": "ジーノ",
+            "performance": "ムーン・トラベラー",
+            "character": "皆木綴"
+        },
+        {
+            "name": "カルロ",
+            "performance": "ムーン・トラベラー",
+            "character": "茅ヶ崎至"
+        },
+        {
+            "name": "パオロ",
+            "performance": "ムーン・トラベラー",
+            "character": "碓氷真澄"
+        },
+        {
+            "name": "ジェラルド",
+            "performance": "ムーン・トラベラー",
+            "character": "シトロン"
+        },
+        {
+            "name": "ピオ",
+            "performance": "ムーン・トラベラー",
+            "character": "佐久間咲也"
         }
     ],
     "夏組": [{
@@ -659,6 +719,66 @@
             "name": "チャチャ",
             "performance": "WONDER RUSH",
             "character": "兵頭九門"
+        },
+        {
+            "name": "青海七海",
+            "performance": "スカイギャラリー",
+            "character": "三好一成"
+        },
+        {
+            "name": "白戸色波",
+            "performance": "スカイギャラリー",
+            "character": "皇天馬"
+        },
+        {
+            "name": "東雲明星",
+            "performance": "スカイギャラリー",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "萌黄若葉",
+            "performance": "スカイギャラリー",
+            "character": "向坂椋"
+        },
+        {
+            "name": "山吹黄金",
+            "performance": "スカイギャラリー",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "桜田桃太",
+            "performance": "スカイギャラリー",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "孫悟空",
+            "performance": "彩遊記",
+            "character": "兵頭九門"
+        },
+        {
+            "name": "玄奘三蔵",
+            "performance": "彩遊記",
+            "character": "三好一成"
+        },
+        {
+            "name": "沙悟浄",
+            "performance": "彩遊記",
+            "character": "斑鳩三角"
+        },
+        {
+            "name": "猪八戒",
+            "performance": "彩遊記",
+            "character": "瑠璃川幸"
+        },
+        {
+            "name": "金角",
+            "performance": "彩遊記",
+            "character": "皇天馬"
+        },
+        {
+            "name": "銀角",
+            "performance": "彩遊記",
+            "character": "向坂椋"
         }
     ],
     "秋組": [{
@@ -975,6 +1095,36 @@
             "name": "レン",
             "performance": "サウスヒルプリズン",
             "character": "泉田莇"
+        },
+        {
+            "name": "大地",
+            "performance": "the Rad Red",
+            "character": "七尾太一"
+        },
+        {
+            "name": "千里",
+            "performance": "the Rad Red",
+            "character": "摂津万里"
+        },
+        {
+            "name": "市橋",
+            "performance": "the Rad Red",
+            "character": "古市左京"
+        },
+        {
+            "name": "兵太",
+            "performance": "the Rad Red",
+            "character": "兵頭十座"
+        },
+        {
+            "name": "伊佐",
+            "performance": "the Rad Red",
+            "character": "泉田莇"
+        },
+        {
+            "name": "吉見",
+            "performance": "the Rad Red",
+            "character": "伏見臣"
         }
     ],
     "冬組": [{
@@ -1293,96 +1443,6 @@
             "character": "ガイ"
         },
         {
-            "name": "本居鶴松",
-            "performance": "文学隘路",
-            "character": "皆木綴"
-        },
-        {
-            "name": "大江知久",
-            "performance": "文学隘路",
-            "character": "佐久間咲也"
-        },
-        {
-            "name": "楠リュシアン",
-            "performance": "文学隘路",
-            "character": "シトロン"
-        },
-        {
-            "name": "高杉",
-            "performance": "文学隘路",
-            "character": "卯木千景"
-        },
-        {
-            "name": "国重隆祥",
-            "performance": "文学隘路",
-            "character": "碓氷真澄"
-        },
-        {
-            "name": "渋川",
-            "performance": "文学隘路",
-            "character": "茅ヶ崎至"
-        },
-        {
-            "name": "青海七海",
-            "performance": "スカイギャラリー",
-            "character": "三好一成"
-        },
-        {
-            "name": "白戸色波",
-            "performance": "スカイギャラリー",
-            "character": "皇天馬"
-        },
-        {
-            "name": "東雲明星",
-            "performance": "スカイギャラリー",
-            "character": "斑鳩三角"
-        },
-        {
-            "name": "萌黄若葉",
-            "performance": "スカイギャラリー",
-            "character": "向坂椋"
-        },
-        {
-            "name": "山吹黄金",
-            "performance": "スカイギャラリー",
-            "character": "瑠璃川幸"
-        },
-        {
-            "name": "桜田桃太",
-            "performance": "スカイギャラリー",
-            "character": "兵頭九門"
-        },
-        {
-            "name": "大地",
-            "performance": "the Rad Red",
-            "character": "七尾太一"
-        },
-        {
-            "name": "千里",
-            "performance": "the Rad Red",
-            "character": "摂津万里"
-        },
-        {
-            "name": "市橋",
-            "performance": "the Rad Red",
-            "character": "古市左京"
-        },
-        {
-            "name": "兵太",
-            "performance": "the Rad Red",
-            "character": "兵頭十座"
-        },
-        {
-            "name": "伊佐",
-            "performance": "the Rad Red",
-            "character": "泉田莇"
-        },
-        {
-            "name": "吉見",
-            "performance": "the Rad Red",
-            "character": "伏見臣"
-        },
-        {
             "name": "東風牡丹",
             "performance": "陽だまりのブラン",
             "character": "御影密"
@@ -1411,66 +1471,6 @@
             "name": "蘭良二",
             "performance": "陽だまりのブラン",
             "character": "高遠丞"
-        },
-        {
-            "name": "ロベルト",
-            "performance": "ムーン・トラベラー",
-            "character": "卯木千景"
-        },
-        {
-            "name": "ジーノ",
-            "performance": "ムーン・トラベラー",
-            "character": "皆木綴"
-        },
-        {
-            "name": "カルロ",
-            "performance": "ムーン・トラベラー",
-            "character": "茅ヶ崎至"
-        },
-        {
-            "name": "パオロ",
-            "performance": "ムーン・トラベラー",
-            "character": "碓氷真澄"
-        },
-        {
-            "name": "ジェラルド",
-            "performance": "ムーン・トラベラー",
-            "character": "シトロン"
-        },
-        {
-            "name": "ピオ",
-            "performance": "ムーン・トラベラー",
-            "character": "佐久間咲也"
-        },
-        {
-            "name": "孫悟空",
-            "performance": "彩遊記",
-            "character": "兵頭九門"
-        },
-        {
-            "name": "玄奘三蔵",
-            "performance": "彩遊記",
-            "character": "三好一成"
-        },
-        {
-            "name": "沙悟浄",
-            "performance": "彩遊記",
-            "character": "斑鳩三角"
-        },
-        {
-            "name": "猪八戒",
-            "performance": "彩遊記",
-            "character": "瑠璃川幸"
-        },
-        {
-            "name": "金角",
-            "performance": "彩遊記",
-            "character": "皇天馬"
-        },
-        {
-            "name": "銀角",
-            "performance": "彩遊記",
-            "character": "向坂椋"
         }
     ]
 }]
