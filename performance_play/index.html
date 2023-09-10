@@ -5,28 +5,42 @@
     <meta charset="UTF-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-    <title>ランダム団員表示 - えすりランダムサイト</title>
-    <link rel="stylesheet" type="text/css" href="./reset.css">
-    <link rel="stylesheet" type="text/css" href="./style.css">
+    <title>ランダム公演表示</title>
+    <link rel="stylesheet" type="text/css" href="../reset.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../performance_play/play.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="./script.js"></script>
+    <script src="../performance_play/play.js"></script>
 </head>
 
 <body>
     <header>
-        <h1>ランダムで団員を1人表示するぜ</h1>
+        <h1>ランダムで公演を表示するぜ</h1>
     </header>
 
     <div id="main" class="main">
         <div class="button_area main_innner">
+            <div class="choose_box">
+                <select name="choose_list">
+                    <option value="全部">全部</option>
+                    <option value="春組">春組</option>
+                    <option value="夏組">夏組</option>
+                    <option value="秋組">秋組</option>
+                    <option value="冬組">冬組</option>
+                    <option value="その他">その他</option>
+                </select>
+                <div class="choose_arrow"></div>
+            </div>
             <p class="choose_button s-choose_button"><span>おす</span></p>
         </div>
 
         <!-- 結果表示 -->
         <div class="result main_innner">
-            <h2 class="result_title">選ばれたのは</h2>
+            <h2 class="result_title">お題は</h2>
             <div class="result_inner">
-                <p class="result_text s-result">XXX</p>
+                <div class="result_textWrap">
+                    <p class="result_text s-resultPerformance">公演名</p>
+                </div>
             </div>
         </div>
 
