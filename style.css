@@ -150,7 +150,13 @@ footer {
     margin: 0 5px;
 }
 
-.footerLink li:hover {
+.footerLink p {
+    display: inline;
+    color: #fff336;
+    font-weight: bold;
+}
+
+.footerLink a:hover {
     opacity: 0.7;
 }
 
@@ -162,4 +168,33 @@ footer {
     header {
         font-size: 20px;
     }
+}
+
+/* 複数人版 */
+.selectNum_area {
+    margin: 0 auto 20px;
+}
+
+.selectNum_area input {
+    width: 100px;
+    cursor: pointer;
+    background-color: white;
+    box-shadow: 0 2px 0 white;
+    border-radius: 2px;
+    border: 1px solid #6981ff;
+    padding: 8px 0;
+}
+
+.selectNum_sub {
+    display: inline-block;
+}
+
+.result_list {
+    width: 120px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.result_item {
+    font-weight: bold;
 }
