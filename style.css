@@ -37,6 +37,7 @@ header {
     max-width: 250px;
     margin: 0 auto 20px;
     transition: all ease 0.3s;
+    cursor: pointer;
 }
 
 .choose_button::after {
