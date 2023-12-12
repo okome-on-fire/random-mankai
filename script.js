@@ -81,7 +81,7 @@ $(document).ready(function() {
         }
 
         var tweet = 'ランダムで' + select_num + '人選びました。（' + tweetText + '）';
-        $('.s-tweet_button').attr('href', 'http://twitter.com/intent/tweet?url=https://okome-on-fire.github.io/random-mankai/&text=' + tweet);
+        $('.s-tweet_button').attr('href', 'http://twitter.com/intent/tweet?url=https://okome-on-fire.github.io/random-mankai/more.html&text=' + tweet);
     });
 
     // 一人用

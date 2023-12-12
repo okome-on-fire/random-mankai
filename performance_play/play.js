@@ -73,7 +73,7 @@ $(document).ready(function() {
 
             // tweet
             var tweet = 'お題は「'  + resultPerformance + '」です';
-            $('.s-tweet_button').attr('href', 'http://twitter.com/intent/tweet?url=https://okome-on-fire.github.io/random-mankai/performance/&text=' + tweet + '&hashtags=ランダム公演お題');
+            $('.s-tweet_button').attr('href', 'http://twitter.com/intent/tweet?url=https://okome-on-fire.github.io/random-mankai/performance_play/&text=' + tweet + '&hashtags=ランダム公演お題');
         });
     });
 });
